@@ -1,0 +1,25 @@
+{
+  "name": "erp-production-management-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jouriena11/erp-production-management-module.git"
+  },
+  "keywords": [
+    "ERP",
+    "Enterprise Resources Planning",
+    "Production Management"
+  ],
+  "author": "Piyawit (John) Teeraprasert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jouriena11/erp-production-management-module/issues"
+  },
+  "homepage": "https://github.com/jouriena11/erp-production-management-module#readme"
+}
